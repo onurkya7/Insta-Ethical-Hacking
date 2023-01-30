@@ -2,6 +2,8 @@
 An instagram project of what an educational phishing attack looks like
 
 ## Web address of sample site for Instagram phishing
+Phishing the user with the blue tick trap
+https://instagram-bluetick.netlify.app/
 
 ![website_adress](https://user-images.githubusercontent.com/100594545/215474729-a8400b60-2db6-4030-863f-13ef757f6acc.PNG)
 
