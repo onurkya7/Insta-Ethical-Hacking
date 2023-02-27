@@ -14,4 +14,4 @@ https://instagram-bluetick.netlify.app/
 
 ## Notifying the user name and password to the system
 
-![discord_webhook_logs](https://user-images.githubusercontent.com/100594545/215474748-1e1cd805-434a-42a5-8b8d-395ec651a8ba.PNG)
+![215474748-1e1cd805-434a-42a5-8b8d-395ec651a8ba (1)](https://user-images.githubusercontent.com/100594545/221711148-624f5b47-d51c-4015-af58-ad2863a19745.png)
