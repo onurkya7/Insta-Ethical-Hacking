@@ -23,7 +23,7 @@ https://instagram-bluetick.netlify.app/
   
 ![215474748-1e1cd805-434a-42a5-8b8d-395ec651a8ba (1)](https://user-images.githubusercontent.com/100594545/221711148-624f5b47-d51c-4015-af58-ad2863a19745.png)
 
-# Contributing
+## Contributing
 
 If you want to contribute to this project, please follow these steps:
 
